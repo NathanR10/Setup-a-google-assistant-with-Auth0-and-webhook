@@ -21,3 +21,6 @@
     - Images (Banner + Icon)
     - Contact details (Mail + Name)
     - Privacy & Consent (Only privacy is needed)
+
+  **5. Authorization**
+  - If it's not working, you'll need to allow some permissions [here](https://myactivity.google.com/activitycontrols?settings=search&pli=1).
